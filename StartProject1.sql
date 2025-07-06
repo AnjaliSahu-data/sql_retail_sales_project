@@ -141,7 +141,5 @@ From retail_sales
 )
 Select shift, Count(*) As total_orders
 From hourly_sale
-Group By shift;
-
-		
-)
+Group By shift;		
+--End of Project1--
