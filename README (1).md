@@ -90,7 +90,7 @@ WHERE rank = 1;
 
 ## 🙋‍♀️ Author
 **Anjali Sahu**  
-Feel free to connect with me on [LinkedIn- https://www.linkedin.com/in/anjali-sahu-analyst/](#) or view more projects on [GitHub- https://github.com/AnjaliSahu-data/sql_retail_sales_project](#).
+Feel free to connect with me on Linkedin [ https://www.linkedin.com/in/anjali-sahu-analyst/] or view more projects on GitHub:- [https://github.com/AnjaliSahu-data/sql_retail_sales_project](#).
 
 ---
 
